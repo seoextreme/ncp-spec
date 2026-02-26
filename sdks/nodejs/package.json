@@ -1,0 +1,24 @@
+{
+    "name": "@seoextreme/ncp-validator",
+    "version": "1.0.0",
+    "description": "The official Neural Content Protocol (NCP) v1.0 strict validation engine.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/seoextreme/ncp-spec.git"
+    },
+    "keywords": [
+        "ncp",
+        "neural content protocol",
+        "seo",
+        "ai",
+        "validation",
+        "rfc"
+    ],
+    "author": "SEOExtreme",
+    "license": "MIT"
+}

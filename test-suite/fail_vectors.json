@@ -1,0 +1,177 @@
+{
+    "meta": {
+        "version": "1.0",
+        "type": "FAIL_VECTORS",
+        "count": 5
+    },
+    "vectors": [
+        {
+            "title": "Missing Protocol",
+            "payload": {
+                "semantic_type": "invalid_enum",
+                "identity": {
+                    "name": "X",
+                    "description": "Short.",
+                    "url": "http:\/\/insecure.com\/",
+                    "image": "invalid-url"
+                },
+                "authority": {
+                    "verified": "yes",
+                    "trust_score": 11,
+                    "external_signals": [
+                        "just-a-string"
+                    ]
+                },
+                "entities": {
+                    "primary": [],
+                    "secondary": []
+                },
+                "offer": {
+                    "type": "Diagnostic",
+                    "price": 10,
+                    "currency": "US"
+                },
+                "context": {
+                    "language": "english",
+                    "summary": "Too short summary.",
+                    "timestamp": "2026"
+                }
+            }
+        },
+        {
+            "title": "Insecure Identity URL",
+            "payload": {
+                "protocol": "NCP\/1.0",
+                "semantic_type": "invalid_enum",
+                "identity": {
+                    "name": "X",
+                    "description": "Short.",
+                    "url": "http:\/\/example.com",
+                    "image": "invalid-url"
+                },
+                "authority": {
+                    "verified": "yes",
+                    "trust_score": 11,
+                    "external_signals": [
+                        "just-a-string"
+                    ]
+                },
+                "entities": {
+                    "primary": [],
+                    "secondary": []
+                },
+                "offer": {
+                    "type": "Diagnostic",
+                    "price": 10,
+                    "currency": "US"
+                },
+                "context": {
+                    "language": "english",
+                    "summary": "Too short summary.",
+                    "timestamp": "2026"
+                }
+            }
+        },
+        {
+            "title": "Invalid ISO Currency Format",
+            "payload": {
+                "protocol": "NCP\/1.0",
+                "semantic_type": "invalid_enum",
+                "identity": {
+                    "name": "X",
+                    "description": "Short.",
+                    "url": "http:\/\/insecure.com\/",
+                    "image": "invalid-url"
+                },
+                "authority": {
+                    "verified": "yes",
+                    "trust_score": 11,
+                    "external_signals": [
+                        "just-a-string"
+                    ]
+                },
+                "entities": {
+                    "primary": [],
+                    "secondary": []
+                },
+                "offer": {
+                    "type": "Diagnostic",
+                    "price": 50,
+                    "currency": "EURO"
+                },
+                "context": {
+                    "language": "english",
+                    "summary": "Too short summary.",
+                    "timestamp": "2026"
+                }
+            }
+        },
+        {
+            "title": "Invalid Authority Block",
+            "payload": {
+                "protocol": "NCP\/1.0",
+                "semantic_type": "invalid_enum",
+                "identity": {
+                    "name": "X",
+                    "description": "Short.",
+                    "url": "http:\/\/insecure.com\/",
+                    "image": "invalid-url"
+                },
+                "authority": {
+                    "verified": "yes",
+                    "trust_score": 11,
+                    "external_signals": [
+                        "just-a-string"
+                    ]
+                },
+                "entities": {
+                    "primary": [],
+                    "secondary": []
+                },
+                "offer": {
+                    "type": "Diagnostic",
+                    "price": 10,
+                    "currency": "US"
+                },
+                "context": {
+                    "language": "english",
+                    "summary": "Too short summary.",
+                    "timestamp": "2026"
+                }
+            }
+        },
+        {
+            "title": "Missing Timestamp",
+            "payload": {
+                "protocol": "NCP\/1.0",
+                "semantic_type": "invalid_enum",
+                "identity": {
+                    "name": "X",
+                    "description": "Short.",
+                    "url": "http:\/\/insecure.com\/",
+                    "image": "invalid-url"
+                },
+                "authority": {
+                    "verified": "yes",
+                    "trust_score": 11,
+                    "external_signals": [
+                        "just-a-string"
+                    ]
+                },
+                "entities": {
+                    "primary": [],
+                    "secondary": []
+                },
+                "offer": {
+                    "type": "Diagnostic",
+                    "price": 10,
+                    "currency": "US"
+                },
+                "context": {
+                    "language": "english",
+                    "summary": "Too short summary."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "meta": {
+        "version": "1.0",
+        "type": "PASS_VECTORS",
+        "count": 5
+    },
+    "vectors": [
+        {
+            "protocol": "NCP\/1.0",
+            "semantic_type": "universal",
+            "identity": {
+                "name": "SEOExtreme Validation Core",
+                "description": "This is a test vector designed strictly to pass all mandatory v1.0 specifications.",
+                "url": "https:\/\/seoextreme.org\/",
+                "image": "https:\/\/seoextreme.org\/logo.png",
+                "author": "System"
+            },
+            "authority": {
+                "verified": true,
+                "trust_score": 9.5,
+                "external_signals": [
+                    {
+                        "type": "github",
+                        "url": "https:\/\/github.com\/seoextreme\/ncp-spec"
+                    }
+                ]
+            },
+            "entities": {
+                "primary": [
+                    "Test Vector",
+                    "Protocol",
+                    "Semantic Web"
+                ],
+                "secondary": []
+            },
+            "offer": {
+                "type": "Diagnostic",
+                "availability": "Available",
+                "price": null,
+                "currency": null
+            },
+            "context": {
+                "intent": "Validation",
+                "target_audience": "Developers",
+                "language": "en",
+                "summary": "This object passes all strict normative requirements defined in the Neural Content Protocol v1.0 standard. It uses origin matching, HTTPS strictly, and ISO formatting.",
+                "timestamp": "2026-02-26T11:40:12+00:00"
+            }
+        },
+        {
+            "protocol": "NCP\/1.0",
+            "semantic_type": "product",
+            "identity": {
+                "name": "SEOExtreme Validation Core",
+                "description": "This is a test vector designed strictly to pass all mandatory v1.0 specifications.",
+                "url": "https:\/\/seoextreme.org\/",
+                "image": "https:\/\/seoextreme.org\/logo.png",
+                "author": "System"
+            },
+            "authority": {
+                "verified": true,
+                "trust_score": 9.5,
+                "external_signals": [
+                    {
+                        "type": "github",
+                        "url": "https:\/\/github.com\/seoextreme\/ncp-spec"
+                    }
+                ]
+            },
+            "entities": {
+                "primary": [
+                    "Test Vector",
+                    "Protocol",
+                    "Semantic Web"
+                ],
+                "secondary": []
+            },
+            "offer": {
+                "type": "Diagnostic",
+                "availability": "Available",
+                "price": 19.99,
+                "currency": "USD"
+            },
+            "context": {
+                "intent": "Validation",
+                "target_audience": "Developers",
+                "language": "en",
+                "summary": "This object passes all strict normative requirements defined in the Neural Content Protocol v1.0 standard. It uses origin matching, HTTPS strictly, and ISO formatting.",
+                "timestamp": "2026-02-26T11:40:12+00:00"
+            }
+        },
+        {
+            "protocol": "NCP\/1.0",
+            "semantic_type": "article",
+            "identity": {
+                "name": "SEOExtreme Validation Core",
+                "description": "This is a test vector designed strictly to pass all mandatory v1.0 specifications.",
+                "url": "https:\/\/seoextreme.org\/",
+                "image": "https:\/\/seoextreme.org\/logo.png",
+                "author": "System"
+            },
+            "authority": {
+                "verified": true,
+                "trust_score": 9.5,
+                "external_signals": [
+                    {
+                        "type": "github",
+                        "url": "https:\/\/github.com\/seoextreme\/ncp-spec"
+                    }
+                ]
+            },
+            "entities": {
+                "primary": [
+                    "Test Vector",
+                    "Protocol",
+                    "Semantic Web"
+                ],
+                "secondary": []
+            },
+            "offer": {
+                "type": "Diagnostic",
+                "availability": "Available",
+                "price": null,
+                "currency": null
+            },
+            "context": {
+                "intent": "Validation",
+                "target_audience": "Developers",
+                "language": "en",
+                "summary": "This object passes all strict normative requirements defined in the Neural Content Protocol v1.0 standard. It uses origin matching, HTTPS strictly, and ISO formatting.",
+                "timestamp": "2026-02-26T11:40:12+00:00"
+            }
+        },
+        {
+            "protocol": "NCP\/1.0",
+            "semantic_type": "universal",
+            "identity": {
+                "name": "SEOExtreme Validation Core",
+                "description": "This is a test vector designed strictly to pass all mandatory v1.0 specifications.",
+                "url": "https:\/\/seoextreme.org\/",
+                "image": "https:\/\/seoextreme.org\/logo.png",
+                "author": "GPT-4 Spec Reviewer"
+            },
+            "authority": {
+                "verified": true,
+                "trust_score": 9.5,
+                "external_signals": [
+                    {
+                        "type": "github",
+                        "url": "https:\/\/github.com\/seoextreme\/ncp-spec"
+                    }
+                ]
+            },
+            "entities": {
+                "primary": [
+                    "Test Vector",
+                    "Protocol",
+                    "Semantic Web"
+                ],
+                "secondary": []
+            },
+            "offer": {
+                "type": "Diagnostic",
+                "availability": "Available",
+                "price": null,
+                "currency": null
+            },
+            "context": {
+                "intent": "Validation",
+                "target_audience": "Developers",
+                "language": "en",
+                "summary": "This object passes all strict normative requirements defined in the Neural Content Protocol v1.0 standard. It uses origin matching, HTTPS strictly, and ISO formatting.",
+                "timestamp": "2026-02-26T11:40:12+00:00"
+            }
+        },
+        {
+            "protocol": "NCP\/1.0",
+            "semantic_type": "universal",
+            "identity": {
+                "name": "SEOExtreme Validation Core",
+                "description": "This is a test vector designed strictly to pass all mandatory v1.0 specifications.",
+                "url": "https:\/\/seoextreme.org\/",
+                "image": "https:\/\/seoextreme.org\/logo.png",
+                "author": "System"
+            },
+            "authority": {
+                "verified": true,
+                "trust_score": 9.5,
+                "external_signals": [
+                    {
+                        "type": "github",
+                        "url": "https:\/\/github.com\/seoextreme\/ncp-spec"
+                    },
+                    {
+                        "type": "wikipedia",
+                        "url": "https:\/\/wikipedia.org\/wiki\/SEO"
+                    }
+                ]
+            },
+            "entities": {
+                "primary": [
+                    "Test Vector",
+                    "Protocol",
+                    "Semantic Web"
+                ],
+                "secondary": []
+            },
+            "offer": {
+                "type": "Diagnostic",
+                "availability": "Available",
+                "price": null,
+                "currency": null
+            },
+            "context": {
+                "intent": "Validation",
+                "target_audience": "Developers",
+                "language": "en",
+                "summary": "This object passes all strict normative requirements defined in the Neural Content Protocol v1.0 standard. It uses origin matching, HTTPS strictly, and ISO formatting.",
+                "timestamp": "2026-02-26T11:40:12+00:00"
+            }
+        }
+    ]
+}
